@@ -2,6 +2,8 @@
 
 Word Garden is a touch-first, offline-capable reading and spelling prototype for Android tablets and modern browsers. It is a demonstration build, not a validated reading curriculum or a substitute for instruction from a teacher or specialist.
 
+**Live production demo:** https://johnquade.github.io/word-garden-production/
+
 ## Try it
 
 1. Copy the `word-garden` folder to a web host that serves HTTPS. For a local desktop preview run `python -m http.server 8123` from this folder and open `http://localhost:8123`.
