@@ -1,0 +1,439 @@
+{
+  "b": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/b.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/b.mp3",
+    "license": "MIT",
+    "ipa": "b"
+  },
+  "d": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/d.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/d.mp3",
+    "license": "MIT",
+    "ipa": "d"
+  },
+  "f": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/f.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/f.mp3",
+    "license": "MIT"
+  },
+  "g": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u0261.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%A1.mp3",
+    "license": "MIT",
+    "ipa": "\u0261"
+  },
+  "h": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/h.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/h.mp3",
+    "license": "MIT",
+    "ipa": "h"
+  },
+  "j": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/d\u0292.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/d%CA%92.mp3",
+    "license": "MIT",
+    "ipa": "d\u0292"
+  },
+  "k": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/k.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/k.mp3",
+    "license": "MIT"
+  },
+  "l": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u026b.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%AB.mp3",
+    "license": "MIT",
+    "ipa": "\u026b"
+  },
+  "m": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/m.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/m.mp3",
+    "license": "MIT",
+    "ipa": "m"
+  },
+  "n": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/n.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/n.mp3",
+    "license": "MIT",
+    "ipa": "n"
+  },
+  "p": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/p.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/p.mp3",
+    "license": "MIT"
+  },
+  "r": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u0279.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%B9.mp3",
+    "license": "MIT",
+    "ipa": "\u0279"
+  },
+  "s": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/s.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/s.mp3",
+    "license": "MIT"
+  },
+  "t": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/t.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/t.mp3",
+    "license": "MIT"
+  },
+  "v": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/v.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/v.mp3",
+    "license": "MIT",
+    "ipa": "v"
+  },
+  "w": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/w.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/w.mp3",
+    "license": "MIT",
+    "ipa": "w"
+  },
+  "y": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/j.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/j.mp3",
+    "license": "MIT",
+    "ipa": "j"
+  },
+  "z": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/z.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/z.mp3",
+    "license": "MIT",
+    "ipa": "z"
+  },
+  "sh": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/sh.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/sh.mp3",
+    "license": "MIT"
+  },
+  "ch": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/ch.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/ch.mp3",
+    "license": "MIT"
+  },
+  "th": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/th.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/th.mp3",
+    "license": "MIT"
+  },
+  "th_v": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/dh.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/dh.mp3",
+    "license": "MIT"
+  },
+  "ng": {
+    "upstream": "finereli/yarareads",
+    "path": "content/sounds/recorded/eli/ng.mp3",
+    "url": "https://raw.githubusercontent.com/finereli/yarareads/HEAD/content/sounds/recorded/eli/ng.mp3",
+    "license": "MIT"
+  },
+  "qu": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/kw.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/kw.mp3",
+    "license": "MIT",
+    "ipa": "kw"
+  },
+  "x": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/ks.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/ks.mp3",
+    "license": "MIT",
+    "ipa": "ks"
+  },
+  "a": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u00e6.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C3%A6.mp3",
+    "license": "MIT",
+    "ipa": "\u00e6"
+  },
+  "e": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u025b.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%9B.mp3",
+    "license": "MIT",
+    "ipa": "\u025b"
+  },
+  "i": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u026a.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%AA.mp3",
+    "license": "MIT",
+    "ipa": "\u026a"
+  },
+  "o": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u0251.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%91.mp3",
+    "license": "MIT",
+    "ipa": "\u0251"
+  },
+  "u": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u0259.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%99.mp3",
+    "license": "MIT",
+    "ipa": "\u0259"
+  },
+  "ay": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/e\u026a.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/e%C9%AA.mp3",
+    "license": "MIT",
+    "ipa": "e\u026a"
+  },
+  "ee": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/i.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/i.mp3",
+    "license": "MIT",
+    "ipa": "i"
+  },
+  "ie": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/a\u026a.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/a%C9%AA.mp3",
+    "license": "MIT",
+    "ipa": "a\u026a"
+  },
+  "oa": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/o\u028a.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/o%CA%8A.mp3",
+    "license": "MIT",
+    "ipa": "o\u028a"
+  },
+  "oo": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/u.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/u.mp3",
+    "license": "MIT",
+    "ipa": "u"
+  },
+  "oo_short": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u028a.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%CA%8A.mp3",
+    "license": "MIT",
+    "ipa": "\u028a"
+  },
+  "ue": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/ju.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/ju.mp3",
+    "license": "MIT",
+    "ipa": "ju"
+  },
+  "ow": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/a\u028a.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/a%CA%8A.mp3",
+    "license": "MIT",
+    "ipa": "a\u028a"
+  },
+  "oi": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u0254\u026a.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%94%C9%AA.mp3",
+    "license": "MIT",
+    "ipa": "\u0254\u026a"
+  },
+  "aw": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u0254.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%94.mp3",
+    "license": "MIT",
+    "ipa": "\u0254"
+  },
+  "ar": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u0251\u0279.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%91%C9%B9.mp3",
+    "license": "MIT",
+    "ipa": "\u0251\u0279"
+  },
+  "er": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u025d.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%9D.mp3",
+    "license": "MIT",
+    "ipa": "\u025d"
+  },
+  "or": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u0254\u0279.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%94%C9%B9.mp3",
+    "license": "MIT",
+    "ipa": "\u0254\u0279"
+  },
+  "air": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u025b\u0279.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%9B%C9%B9.mp3",
+    "license": "MIT",
+    "ipa": "\u025b\u0279"
+  },
+  "ear": {
+    "upstream": "s5s5/phonics",
+    "path": "public/sound/\u026a\u0279.mp3",
+    "url": "https://raw.githubusercontent.com/s5s5/phonics/HEAD/public/sound/%C9%AA%C9%B9.mp3",
+    "license": "MIT",
+    "ipa": "\u026a\u0279"
+  },
+  "c": {
+    "upstream": "app alias",
+    "file": "k.wav",
+    "license": "MIT",
+    "note": "uses the /k/ clip for hard c, e.g. cat"
+  },
+  "ck": {
+    "upstream": "app alias",
+    "file": "k.wav",
+    "license": "MIT",
+    "note": "uses the /k/ clip for ck, e.g. duck"
+  },
+  "tch": {
+    "upstream": "app alias",
+    "file": "ch.wav",
+    "license": "MIT",
+    "note": "uses the ch phoneme clip for the contextual grapheme tch"
+  },
+  "ph": {
+    "upstream": "app alias",
+    "file": "f.wav",
+    "license": "MIT",
+    "note": "uses the f phoneme clip for the contextual grapheme ph"
+  },
+  "wh": {
+    "upstream": "app alias",
+    "file": "w.wav",
+    "license": "MIT",
+    "note": "uses the w phoneme clip for the contextual grapheme wh"
+  },
+  "kn": {
+    "upstream": "app alias",
+    "file": "n.wav",
+    "license": "MIT",
+    "note": "uses the n phoneme clip for the contextual grapheme kn"
+  },
+  "wr": {
+    "upstream": "app alias",
+    "file": "r.wav",
+    "license": "MIT",
+    "note": "uses the r phoneme clip for the contextual grapheme wr"
+  },
+  "ai": {
+    "upstream": "app alias",
+    "file": "ay.wav",
+    "license": "MIT",
+    "note": "uses the ay phoneme clip for the contextual grapheme ai"
+  },
+  "a_e": {
+    "upstream": "app alias",
+    "file": "ay.wav",
+    "license": "MIT",
+    "note": "uses the ay phoneme clip for the contextual grapheme a_e"
+  },
+  "igh": {
+    "upstream": "app alias",
+    "file": "ie.wav",
+    "license": "MIT",
+    "note": "uses the ie phoneme clip for the contextual grapheme igh"
+  },
+  "i_e": {
+    "upstream": "app alias",
+    "file": "ie.wav",
+    "license": "MIT",
+    "note": "uses the ie phoneme clip for the contextual grapheme i_e"
+  },
+  "ea": {
+    "upstream": "app alias",
+    "file": "ee.wav",
+    "license": "MIT",
+    "note": "uses the ee phoneme clip for the contextual grapheme ea"
+  },
+  "e_e": {
+    "upstream": "app alias",
+    "file": "ee.wav",
+    "license": "MIT",
+    "note": "uses the ee phoneme clip for the contextual grapheme e_e"
+  },
+  "o_e": {
+    "upstream": "app alias",
+    "file": "oa.wav",
+    "license": "MIT",
+    "note": "uses the oa phoneme clip for the contextual grapheme o_e"
+  },
+  "ow_long": {
+    "upstream": "app alias",
+    "file": "oa.wav",
+    "license": "MIT",
+    "note": "uses the oa phoneme clip for the contextual grapheme ow_long"
+  },
+  "u_e": {
+    "upstream": "app alias",
+    "file": "ue.wav",
+    "license": "MIT",
+    "note": "uses the ue phoneme clip for the contextual grapheme u_e"
+  },
+  "ew": {
+    "upstream": "app alias",
+    "file": "ue.wav",
+    "license": "MIT",
+    "note": "uses the ue phoneme clip for the contextual grapheme ew"
+  },
+  "ir": {
+    "upstream": "app alias",
+    "file": "er.wav",
+    "license": "MIT",
+    "note": "uses the er phoneme clip for the contextual grapheme ir"
+  },
+  "ur": {
+    "upstream": "app alias",
+    "file": "er.wav",
+    "license": "MIT",
+    "note": "uses the er phoneme clip for the contextual grapheme ur"
+  },
+  "oe": {
+    "upstream": "app alias",
+    "file": "oa.wav",
+    "license": "MIT",
+    "note": "uses the oa long-o clip for oe as in toe"
+  },
+  "oy": {
+    "upstream": "app alias",
+    "file": "oi.wav",
+    "license": "MIT",
+    "note": "uses the oi phoneme clip for the contextual grapheme oy"
+  },
+  "au": {
+    "upstream": "app alias",
+    "file": "aw.wav",
+    "license": "MIT",
+    "note": "uses the aw phoneme clip for the contextual grapheme au"
+  }
+}

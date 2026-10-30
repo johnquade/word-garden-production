@@ -1,0 +1,12 @@
+# Local test servers and shell artifacts
+node_modules/
+package.json
+package-lock.json
+profile-*/
+test-profile*/
+final-profile*/
+*-profile/
+*.log
+
+# Local QA screenshots are generated on demand; keep the folder out of source control
+screenshots/
